@@ -31,3 +31,8 @@ Some of the projects and exercises in this repository include:
 ## Progress
 
 This repository contains the exercises and projects I completed while working through the course. I’m continuing to use it as a reference for practicing Java and building a stronger foundation before moving further into Java and OOP.
+
+## Recommendation Systems
+
+* Recommendation Project 1
+* Recommendation Project 2
